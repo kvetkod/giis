@@ -34,11 +34,13 @@
 Разработать элементарный графический редактор, реализующий построение параметрических кривых, используя форму Эрмита, форму Безье и B-сплайн. Выбор метода задается из пункта меню и доступен через панель инструментов «Кривые». В редакторе должен быть предусмотрен режим корректировки опорных точек и состыковки сегментов. В программной реализации необходимо реализовать базовые функции матричных вычислений.
 
 Выбор алгоритма построения параметрических кривых:
-![image]()
+![image](https://github.com/user-attachments/assets/9e48f734-2ca4-49d6-a76b-0f4b7e61da47)
+
 
 Пример работы:
 
-![image]()
+![image](https://github.com/user-attachments/assets/20580f62-24ba-47bb-b795-0b4c9bb223a0)
+
 
 ## Лабораторная работа 4
 
@@ -46,11 +48,13 @@
 
 Выбор режима работы с трехмерным объекто:
 
-![image]()
+![image](https://github.com/user-attachments/assets/04a46e9c-eb57-47ab-aa05-ecf8d70f4022)
+
 
 Пример работы:
 
-![image]()
+![image](https://github.com/user-attachments/assets/b4c9967c-a218-43fc-935a-3549a0f83fcf)
+
 
 ## Лабораторная работа 5
 
@@ -60,11 +64,13 @@
 
 Выбор алгоритма:
 
-![image]()
+![image](https://github.com/user-attachments/assets/10fe1dd6-438d-46ff-9c0b-e0bb1eca2dd1)
+
 
 Пример работы:
 
-![image]()
+![image](https://github.com/user-attachments/assets/da045fce-0db2-414c-8558-48cca4ef9e92)
+
 
 
 ## Лабораторная работа 6
@@ -73,11 +79,16 @@
 
 Выбор алгоритма:
 
-![image]()
+![image](https://github.com/user-attachments/assets/32471cad-969f-4797-aaa4-cc2cbf0f9e9e)
+
 
 Пример работы:
 
-![image]()
+![image](https://github.com/user-attachments/assets/6286fb68-0659-4415-81e9-863d0f7a8d62)
+
+![image](https://github.com/user-attachments/assets/291f6963-957e-4342-ad08-5205d3544c18)
+
+
 
 ## Лабораторная работа 7
 
@@ -86,8 +97,12 @@
 
 Выбор алгоритма:
 
-![image]()
+![image](https://github.com/user-attachments/assets/527e99a3-f717-4829-b9ae-d73fa74edeb7)
+
 
 Пример работы:
 
-![image]()
+![image](https://github.com/user-attachments/assets/7afddce2-8385-4757-a89f-e7207d2f56a0)
+
+![image](https://github.com/user-attachments/assets/a8af57b0-60ea-46a6-9ef2-01e216804720)
+
